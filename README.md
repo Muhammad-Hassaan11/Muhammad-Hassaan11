@@ -73,8 +73,9 @@ Drop in Google Maps URLs and get enriched leads with business info, emails and s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassaan11&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hassaan11&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Muhammad-Hassaan11&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center"><i>Learn. Build. Ship. Repeat.</i></p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Hassaan11&theme=tokyo-night&hide_border=true" />
+</p>
